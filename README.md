@@ -37,4 +37,9 @@ fun ImageView.loadUrl(url: String)
 //usage
 ImageView.loadUrl("<path to the image>")
 ```
+To follow along install [Android Studio IDE](https://developer.android.com/studio)
+### Kotlin under the hood
+>Note that kotlin can be compiled to multiple platforms but in this article we will focus nmainly on Android
+
+    *.kt - > kotlin compiler - > *.class plus kotlin standard library - >*.dex - > app.apk
   
