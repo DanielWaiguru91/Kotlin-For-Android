@@ -14,14 +14,15 @@ for more kotlin features refer to kotlin [Official Documentation](https://kotlin
 ```kotlin
 var name = "Daniel"
     name = 3 // Error because inferred name type is String
-
+```
 ##### use of string template
 ```kotlin
 var String: name = "Daniel"
 println("My name is ${name}") // output: My name is Daniel
-
+```
 ##### declaring nullable variables
 ```kotlin
 var myAge: Int? = 20
 myAge = null 
 println(myAge) //output null
+```
