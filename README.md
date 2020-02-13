@@ -22,6 +22,6 @@ println("My name is ${name}") // output: My name is Daniel
 
 ##### declaring nullable variables
 ```kotlin
-var Int? myAge = 20
+var myAge: Int? = 20
 myAge = null 
 println(myAge) //output null
