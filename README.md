@@ -26,3 +26,15 @@ var myAge: Int? = 20
 myAge = null 
 println(myAge) //output null
 ```
+##### kotlin extensions
+Extentions in kotlin enables us to define custom classes, Android Framework Classes or even third party libraries.
+Here is an example where we can add loadImage extension to load images using Picasso(an image loading libarry for Android) to ImageView
+```kotlin
+fun ImageView.loadUrl(url: String)
+{
+  Picasso.with(context).load(url).into(this)
+}
+//usage
+ImageView.loadUrl("<path to the image>")
+```
+  
