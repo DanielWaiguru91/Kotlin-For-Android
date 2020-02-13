@@ -43,3 +43,4 @@ To follow along install [Android Studio IDE](https://developer.android.com/studi
 
     *.kt - > kotlin compiler - > *.class plus kotlin standard library - >*.dex - > app.apk
   
+When kotlin and java are used in the same Android project both(kotlin and java compiler) are used to compile the application and the results merged  at the class level.
