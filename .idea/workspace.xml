@@ -1,9 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cfe0d1fd-8847-444c-bda7-bce77a3023ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Arrays.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coroutines.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionsHandling.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NullSafety.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/complexlambda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functions/Closures.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/range.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringInterpolation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/varargs.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin For Android/META-INF/Kotlin For Android.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin For Android/META-INF/Kotlin For Android.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin For Android/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin For Android/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin For Android/PairdatatypeKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin For Android/PairdatatypeKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,48 +59,87 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kotlin Android" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
   </component>
-  <component name="RunManager" selected="Kotlin.PairdatatypeKt">
-    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DanielWaiguru\IdeaProjects\Kotlin For Android\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DanielWaiguru\IdeaProjects\Kotlin For Android\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.EnumKt">
+    <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Kotlin For Android" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="MAIN_CLASS_NAME" value="ArraysKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PairdatatypeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="EnumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Kotlin For Android" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="PairdatatypeKt" />
+      <option name="MAIN_CLASS_NAME" value="EnumKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RangedatatypeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ExceptionsHandlingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Kotlin For Android" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="RangedatatypeKt" />
+      <option name="MAIN_CLASS_NAME" value="ExceptionsHandlingKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RangeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin For Android" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="RangeKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarargsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin For Android" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="VarargsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,23 +147,13 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.PairdatatypeKt" />
-        <item itemvalue="Kotlin.RangedatatypeKt" />
-        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.EnumKt" />
+        <item itemvalue="Kotlin.ExceptionsHandlingKt" />
+        <item itemvalue="Kotlin.RangeKt" />
+        <item itemvalue="Kotlin.ArraysKt" />
+        <item itemvalue="Kotlin.VarargsKt" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -104,26 +168,70 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1581598621706">
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1590395848597">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581598621706" />
-    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1581598621705">
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1590395848597" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1589962877126">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581598621705" />
-    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1581598621705">
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1589962877126" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1589962877125">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581598621705" />
-    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1581598621706">
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1589962877125" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1589962877125">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581598621706" />
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1581620300502">
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1589962877125" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1589962877125">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1581620300502" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1589962877125" />
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1587716128173">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1587716128173" />
+    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1587716128173">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1587716128173" />
+    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1587716128173">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1587716128173" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1587716128173">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1587716128173" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1587765136651">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1587765136651" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1587028511566">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1587028511566" />
+    <state x="65" y="10" key="new project wizard" timestamp="1587790878164">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="65" y="10" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1587790878164" />
+    <state x="406" y="155" key="refactoring.ChangeSignatureDialog" timestamp="1590234465956">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="406" y="155" key="refactoring.ChangeSignatureDialog/0.0.1366.768@0.0.1366.768" timestamp="1590234465956" />
   </component>
 </project>
