@@ -20,25 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfe0d1fd-8847-444c-bda7-bce77a3023ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coroutines.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Enum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionsHandling.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NullSafety.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/complexlambda.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functions/Closures.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/range.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringInterpolation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/varargs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/User.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin For Android/META-INF/Kotlin For Android.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin For Android/META-INF/Kotlin For Android.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin For Android/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin For Android/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Kotlin For Android/PairdatatypeKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin For Android/PairdatatypeKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Data Class" />
       </list>
     </option>
   </component>
@@ -65,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kotlin Android" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -79,7 +64,7 @@
       <recent name="C:\Users\DanielWaiguru\IdeaProjects\Kotlin For Android\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.EnumKt">
+  <component name="RunManager" selected="Application.MainKt">
     <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Kotlin For Android" />
       <option name="VM_PARAMETERS" />
@@ -93,19 +78,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin For Android" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="EnumKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ExceptionsHandlingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Kotlin For Android" />
       <option name="VM_PARAMETERS" />
@@ -114,6 +86,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="ExceptionsHandlingKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin For Android" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -147,14 +132,12 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.EnumKt" />
-        <item itemvalue="Kotlin.ExceptionsHandlingKt" />
-        <item itemvalue="Kotlin.RangeKt" />
-        <item itemvalue="Kotlin.ArraysKt" />
-        <item itemvalue="Kotlin.VarargsKt" />
+        <item itemvalue="Application.MainKt" />
+        <item itemvalue="Application.ArraysKt" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
