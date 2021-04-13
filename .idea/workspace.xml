@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfe0d1fd-8847-444c-bda7-bce77a3023ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/classes/User.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlin For Android/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlin For Android/MainKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -162,59 +162,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1590395848597">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1590395848597" />
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1589962877126">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1589962877126" />
-    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1589962877125">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1589962877125" />
-    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1589962877125">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1589962877125" />
-    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1589962877125">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1589962877125" />
-    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1587716128173">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1587716128173" />
-    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1587716128173">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1587716128173" />
-    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1587716128173">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1587716128173" />
-    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1587716128173">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1587716128173" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1587765136651">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1587765136651" />
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1587028511566">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1587028511566" />
-    <state x="65" y="10" key="new project wizard" timestamp="1587790878164">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="65" y="10" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1587790878164" />
-    <state x="406" y="155" key="refactoring.ChangeSignatureDialog" timestamp="1590234465956">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="406" y="155" key="refactoring.ChangeSignatureDialog/0.0.1366.768@0.0.1366.768" timestamp="1590234465956" />
   </component>
 </project>

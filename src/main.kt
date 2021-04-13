@@ -36,4 +36,15 @@ fun main() {
     println(user.component2())
     println(user.component3())
     println(user.toString())
+    /**
+     * Extensions functions
+     */
+    val fullName = "Daniel".joinTo("Waiguru")
+    println(fullName)
+    println("lol".isPalindrome())
+    println("yes".isPalindrome())
 }
+infix fun String.joinTo(secondName: String): String  = "$this $secondName"
+
+//Check if a string is palindrome using extensions functions
+fun String.isPalindrome() = this == reversed()
