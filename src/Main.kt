@@ -18,8 +18,13 @@ fun main() {
      * Elvis operator:returns first operand if it is not null else the second operator will be returned
      */
     val firstOperator : String? = null
-    val secondOperator : String = "23"
-    firstOperator ?: secondOperator
+    val secondOperator = "23"
+    //Thread safe null check
+    firstOperator?.let {
+        println(it)
+    } ?: run {
+        println("Firs operator is null")
+    }
 
     /**
      * null Not null assertion operator: explicitly casts nullable variables to non-nullable variables
@@ -61,6 +66,13 @@ fun main() {
     for (i in 5 downTo 0) {
         println(i)
     }
+    /**
+     * Quick filling of lists
+     */
+    val list1 = DoubleArray(5) { 1.5 }.toList()
+    println(list1)
+    val list2 = (0..5).toList()
+    println(list2)
 }
 infix fun String.joinTo(secondName: String): String  = "$this $secondName"
 
