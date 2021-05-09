@@ -1,4 +1,5 @@
 import classes.User
+import java.util.*
 
 fun main() {
     /**
@@ -40,11 +41,33 @@ fun main() {
      * Extensions functions
      */
     val fullName = "Daniel".joinTo("Waiguru")
+    "Daniel" joinTo "Waiguru"
     println(fullName)
     println("lol".isPalindrome())
     println("yes".isPalindrome())
+    println("Daniel Waiguru".toLowerCase().replace("\\s".toRegex(), ""))
+    println(decodeCharacters("Ik5ldmVyIHRydXN0IGEgY29tcHV0ZXIgeW91IGNhbid0IHRocm93IG91dCBhIHdpbmRvdyIgLSBTdGV2ZSBXb3puaWFr"))
+
+    /**
+     * Kotlin ranges
+     */
+    for (i in 0..5) {
+        println(i) //Inclusive
+    }
+
+    for (i in 0 until 5) {
+        println(i) // 5 is excluded
+    }
+    for (i in 5 downTo 0) {
+        println(i)
+    }
 }
 infix fun String.joinTo(secondName: String): String  = "$this $secondName"
 
 //Check if a string is palindrome using extensions functions
 fun String.isPalindrome() = this == reversed()
+
+fun decodeCharacters(encodedStr: String): String {
+    val decodedBytes = Base64.getDecoder().decode(encodedStr)
+    return String(decodedBytes)
+}
